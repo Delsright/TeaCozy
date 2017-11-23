@@ -18,9 +18,9 @@ header {
   display: flex;
   align-items: center;
   flex-grow: 1;
-  border: 1px solid black;
-  padding-left: 10px;
+  border-right: : 10px;
   height: 50px;
+  color:Seashell;
   }
 .menu {
 padding-right: 10px;
