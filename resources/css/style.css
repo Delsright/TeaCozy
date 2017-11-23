@@ -12,7 +12,7 @@ header {
   position: fixed;
   z-index: 1;
   color: Seashell;
-  text-decoration: underline;
+
 }
 #logo {
   display: flex;
@@ -23,7 +23,9 @@ header {
   height: 50px;
   }
 .menu {
-padding-right: 40px;
+padding-right: 10px;
+text-decoration: underline;
+text-align: right;
 }
 .menu li {
   list-style-type:  none;
