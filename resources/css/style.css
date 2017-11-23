@@ -14,6 +14,14 @@ header {
   color: Seashell;
   text-decoration: underline;
 }
+#logo {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  border: 1px solid black;
+  padding-left: 10px;
+  height: 50px;
+  }
 .menu {
 padding-right: 40px;
 }
